@@ -1,0 +1,97 @@
+
+
+body{
+
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+
+}
+h1{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size:5.6rem;
+  font-family: 'Didot', sans-serif;
+  font-weight: normal;
+  color:#66bfbf;
+
+}
+h2{
+  font-family: 'Comic-san', serif;
+  font-weight: normal;
+  color:#66bfbf;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+  color:#11999E;
+  margin: 0px auto 10px auto;
+  font-weight: normal;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 90%;
+  color: #40514e;
+  margin:0px 0px;
+  line-height: 1.4rem;
+}
+
+hr{
+  border-top: 6px dotted #0000FF;
+  width: 10%;
+  border-bottom: 0;
+  margin: 4rem auto;
+  clear:both;
+}
+
+.top{
+  background-color: #eaf6f6;
+  padding-top: 20px;
+}
+
+.middle{
+  margin-top: 50px;
+}
+
+.bottom{
+background-color:#66bfbf;
+padding-top: 50px;
+padding-bottom: 25px;
+}
+
+.Skill-num1{
+  font-family: 'Didot', sans-serif;
+}
+
+.Piano{
+  width: 15%;
+  height: 15%;
+  margin-right: 15px;
+  border-radius: 30px;
+}
+
+.Badminton{
+  width: 15%;
+  height: 15%;
+  margin-right: 15px;
+  border-radius: 30px;
+}
+
+.Button {
+   border-radius: 10px;
+   color: #FFFFFF;
+   padding: 10px 25px 10px 25px;
+   background-color: #FF0000;
+   text-decoration: none;
+   cursor: pointer;
+   text-align: center;
+   font-family: 'Didot', sans-serif;
+   font-weight:lighter;
+   font-size: 0.8rem;
+   margin:40px auto 60px auto;
+}
+
+.Button :hover {
+   text-decoration: none;
+   background: #008000;
+  border: solid #FFFFFF 1px;
+}
